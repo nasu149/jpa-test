@@ -984,4 +984,5 @@ EOF
 
 # mvn clean package wildfly:deploy -Popenshift
 # persistence.xml datasource の 名前を変更すること
+# eap galleon layer の channnel の設定をすること
 
